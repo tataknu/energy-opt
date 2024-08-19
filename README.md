@@ -30,6 +30,8 @@ The goal of this project is to optimize the scheduling of energy storage systems
 - Energy demand:
   - The energy consumption pattern of the system or household varies over time.
   - `energy_demand[t]` is given as input data for each time step `t`.
+- Charge or discharge
+  - The battery can only being charged or discharged for each time step `t`, so `discharge[t] + charge[t] <= 1`.
 
 ### Objective Function
 
