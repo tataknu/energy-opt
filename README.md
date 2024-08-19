@@ -1,4 +1,5 @@
 # Solar Energy Storage Scheduling Optimization using Google OR-Tools' CP-SAT Solver
+![Infographics](https://github.com/tataknu/energy-opt/blob/main/docs/screenshot.png)
 
 ## Problem Definition
 
